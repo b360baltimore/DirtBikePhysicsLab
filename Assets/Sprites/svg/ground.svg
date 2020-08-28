@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="ground.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.22627417"
+     inkscape:cx="2739.4343"
+     inkscape:cy="1264.5355"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="true"
+     showborder="false"
+     inkscape:window-width="1103"
+     inkscape:window-height="695"
+     inkscape:window-x="397"
+     inkscape:window-y="61"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4518" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Background"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <rect
+       style="opacity:0.98000004;fill:#999999;stroke:none;stroke-width:6.57009077;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4520"
+       width="1263.4299"
+       height="787.17999"
+       x="3.2850451"
+       y="-493.46503" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Ground"
+     style="display:inline">
+    <path
+       style="display:inline;opacity:0.98000004;fill:#c87137;stroke:none;stroke-width:6.57009077;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1266.7149,46.585309 c -28.3727,42.26285 -61.0056,86.966071 -81.3816,102.248021 -42.3333,31.75 -95.25,-21.16666 -95.25,-21.16666 0,0 -74.0833,-52.916671 -126.99997,10.58333 -52.91666,63.5 -116.41666,52.91667 -116.41666,52.91667 0,0 -127,-42.33334 -179.91667,-10.58334 -52.91666,31.75 -179.91666,-21.16666 -179.91666,-21.16666 0,0 -95.25,-52.91663 -138.93142,-23.50571 C 312.7864,159.55439 190.5,159.41667 190.5,159.41667 c 0,0 -105.833337,-31.75 -126.999997,-52.91667 -14.63941,-14.639401 -9.04582,1.09244 -60.2149317,5.18676 V 293.71492 H 1266.7149 Z"
+       id="rect4527"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccscscscscccc"
+       inkscape:export-filename="C:\Users\Shi\Workspace\DirtBikePhysics\Assets\Sprites\DirtGround.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ca6d479cca21134385e60e58dfdfa06, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  npcName: 
+  slides:
+  - sprite: {fileID: 0}
+    text: In this game you will learn about poition and velocity.
+  - sprite: {fileID: 0}
+    text: '''Position'' is  where you are in the world'
+  - sprite: {fileID: 0}
+    text: 
