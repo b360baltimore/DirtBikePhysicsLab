@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
-
+using B360;
 
 public class ControlPanelUI : MonoBehaviour
 {
@@ -10,10 +10,7 @@ public class ControlPanelUI : MonoBehaviour
     public bool enableSetPosition = false;
     public TMPro.TMP_InputField positionText;
     public TMPro.TMP_InputField velocityText;
-    public TMPro.TMP_Text timeText;
-    private float elapsedTime = 0f;
     private float startPos;
-
 
     // Start is called before the first frame update
     void Start()
@@ -27,8 +24,6 @@ public class ControlPanelUI : MonoBehaviour
     {
         if (bike.isRunning)
         {
-            elapsedTime += Time.deltaTime;
-            timeText.text = elapsedTime.ToString("0.00");
             UpdateBikePositionText();
         }        
     }
@@ -77,10 +72,8 @@ public class ControlPanelUI : MonoBehaviour
     public void ResetSimulation()
     {
         bike.transform.position = new Vector3(0f, 0f, 0f);
+        UpdateBikePositionText();
         bike.isRunning = false;
-        elapsedTime = 0f;
-        timeText.text = elapsedTime.ToString("0.00");
-        positionText.text = "0.0";
     }
 
     /// <summary>

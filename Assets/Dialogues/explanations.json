@@ -1,0 +1,20 @@
+{
+    "description": "Pizza",
+    "explanations": [
+        {
+            "title": "Position",
+            "description": [
+                "Position is where you are in the world",
+                "In this game you can only move in two diractions (forward and backward)"
+            ]
+        },
+        {
+            "title": "Velocity",
+            "description": [
+                "Velocity is a measure of your change in position over time",
+                "You can think of it as your speed.",
+                "When moving at a higher velocity, "
+            ]
+        }
+    ]
+}

@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ca6d479cca21134385e60e58dfdfa06, type: 3}
   m_Name: Dialogue
   m_EditorClassIdentifier: 
-  npcName: 
+  npcName: Instructor
   slides:
-  - sprite: {fileID: 0}
+  - sprite: {fileID: 21300000, guid: 4e204ba7ac5c07747aaeb00aea967145, type: 3}
     text: In this game you will learn about poition and velocity.
-  - sprite: {fileID: 0}
+  - sprite: {fileID: 21300000, guid: 323a66fbdceef9a46a26e93db16f639f, type: 3}
     text: '''Position'' is  where you are in the world'
-  - sprite: {fileID: 0}
-    text: 
+  - sprite: {fileID: 21300000, guid: 4e204ba7ac5c07747aaeb00aea967145, type: 3}
+    text: '''Velocity'' is how fast you''re moving'
